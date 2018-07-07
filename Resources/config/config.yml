@@ -1,0 +1,5 @@
+# @TODO NICHT COMMITTEN!
+application_updater:
+  minimum_stability: dev
+  release_provider: github_releases
+  github_release_url: "https://api.github.com/repos/michz/shinage-player/releases/latest"

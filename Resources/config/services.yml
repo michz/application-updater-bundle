@@ -1,0 +1,2 @@
+mztx.application_updater.provider.github:
+  class: mztx\ApplicationUpdaterBundle\Provider\GithubReleaseProvider
